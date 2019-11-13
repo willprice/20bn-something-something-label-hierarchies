@@ -1,0 +1,42 @@
+,fine_grained_class,coarse_class,fine_grained_class_index,coarse_class_index
+0,[Something] falling like a rock,Dropping [something],135,0
+1,[Something] falling like a feather or paper,Dropping [something],134,0
+2,Throwing [something],Dropping [something],151,0
+3,Throwing [something] onto a surface,Dropping [something],155,0
+4,Throwing [something] in the air and letting it fall,Dropping [something],154,0
+5,Pushing [something] from right to left,Moving [something] from right to left,94,3
+6,Pulling [something] from right to left,Moving [something] from right to left,87,3
+7,Pulling [something] from left to right,Moving [something] from left to right,86,2
+8,Pushing [something] from left to right,Moving [something] from left to right,93,2
+9,Picking [something] up,Picking [something] up,47,4
+10,Lifting [something] up completely without letting it drop down,Picking [something] up,27,4
+11,Moving [something] up,Picking [something] up,45,4
+12,Lifting [something] with [something] on it,Picking [something] up,29,4
+13,Taking [something] from [somewhere],Picking [something] up,147,4
+14,Taking [one of many similar things on the table],Picking [something] up,146,4
+15,Taking [something] out of [something],Picking [something] up,148,4
+16,Putting [something] next to [something],Putting [something],107,7
+17,Putting [something] onto [something],Putting [something],112,7
+18,Putting [something] on a surface,Putting [something],109,7
+19,Putting [something similar to other things that are already on the table],Putting [something],114,7
+20,Putting [something] behind [something],Putting [something],104,7
+21,"Putting [something], [something] and [something] on the table",Putting [something],120,7
+22,Putting [something] and [something] on the table,Putting [something],103,7
+23,Putting [something] on a flat surface without letting it roll,Putting [something],108,7
+24,"Putting [something] that can't roll onto a slanted surface, so it stays where it is",Putting [something],116,7
+25,Poking [something] so that it falls over,Poking [something],57,5
+26,Poking [something] so lightly that it doesn't or almost doesn't move,Poking [something],56,5
+27,Poking a stack of [something] so the stack collapses,Poking [something],53,5
+28,Poking a stack of [something] without the stack collapsing,Poking [something],54,5
+29,Tearing [something] into two pieces,Tearing [something],149,9
+30,Tearing [something] just a little bit,Tearing [something],150,9
+31,Pouring [something] into [something],Pouring [something],59,6
+32,Pouring [something] onto [something],Pouring [something],61,6
+33,Pouring [something] out of [something],Pouring [something],62,6
+34,Pouring [something] into [something] until it overflows,Pouring [something],60,6
+35,"Trying to pour [something] into [something], but missing so it spills next to it",Pouring [something],163,6
+36,Holding [something],Holding [something],16,1
+37,Holding [something] in front of [something],Holding [something],18,1
+38,Showing [something] on top of [something],Showing [something] (almost no hand),127,8
+39,Showing [something] behind [something],Showing [something] (almost no hand),125,8
+40,Showing [something] next to [something],Showing [something] (almost no hand),126,8

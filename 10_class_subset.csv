@@ -1,0 +1,11 @@
+class_index,class_name
+0,Dropping [something]
+1,Holding [something]
+2,Moving [something] from left to right
+3,Moving [something] from right to left
+4,Picking [something] up
+5,Poking [something]
+6,Pouring [something]
+7,Putting [something]
+8,Showing [something] (almost no hand)
+9,Tearing [something]

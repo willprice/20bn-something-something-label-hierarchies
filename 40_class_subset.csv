@@ -1,0 +1,41 @@
+class_index,class_name,coarse_grained,coarse_grained_class_index,fine_grained_class_index
+0,Approaching [something] with your camera,False,,0.0
+1,Closing [something],False,,5.0
+2,Dropping [something],True,0.0,
+3,Folding [something],False,,14.0
+4,Holding [something],True,1.0,
+5,Holding [something] next to [something],False,,19.0
+6,Moving [something] away from [something],False,,40.0
+7,Moving [something] away from the camera,False,,41.0
+8,Moving [something] closer to [something],False,,42.0
+9,Moving [something] down,False,,43.0
+10,Moving [something] from left to right,True,2.0,
+11,Moving [something] from right to left,True,3.0,
+12,Moving [something] towards the camera,False,,44.0
+13,Moving away from [something] with your camera,False,,32.0
+14,Opening [something],False,,46.0
+15,Picking [something] up,True,4.0,
+16,Plugging [something] into [something],False,,49.0
+17,Poking [something],True,5.0,
+18,Pouring [something],True,6.0,
+19,Pretending to pick [something] up,False,,68.0
+20,Pretending to put [something] next to [something],False,,73.0
+21,Pretending to put [something] on a surface,False,,74.0
+22,Pretending to take [something] from [somewhere],False,,81.0
+23,Pushing [something] so that it slightly moves,False,,100.0
+24,Pushing [something] with [something],False,,101.0
+25,Putting [something],True,7.0,
+26,Putting [something] into [something],False,,106.0
+27,Showing [something] (almost no hand),True,8.0,
+28,Showing a photo of [something] to the camera,False,,124.0
+29,Showing that [something] is empty,False,,129.0
+30,Stacking [number of] [something],False,,144.0
+31,Tearing [something],True,9.0,
+32,Throwing [something] against [something],False,,152.0
+33,Turning [something] upside down,False,,164.0
+34,Turning the camera downwards while filming [something],False,,165.0
+35,Turning the camera left while filming [something],False,,166.0
+36,Turning the camera right while filming [something],False,,167.0
+37,Turning the camera upwards while filming [something],False,,168.0
+38,Uncovering [something],False,,171.0
+39,Unfolding [something],False,,172.0
