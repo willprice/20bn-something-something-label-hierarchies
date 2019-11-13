@@ -3,6 +3,17 @@
 This repository contains CSVs that list classes of varying levels of granularity
 and the mappings between these levels for the [Something-something](https://20bn.com/datasets/something-something) dataset.
 
+## Instance Labels
+
+Download the *fine-grained* labels from the [Something-something dataset
+website](https://20bn.com/datasets/something-something)
+
+- [`something-something-v2-train.json`](https://20bn.com/dataset-release/something-something/v2/train)
+- [`something-something-v2-validation.json`](https://20bn.com/dataset-release/something-something/v2/validation)
+- [`something-something-v2-test.json`](https://20bn.com/dataset-release/something-something/v2/test), these just contain IDs for test videos.
+- [`something-something-v2-labels.json`](https://20bn.com/dataset-release/something-something/v2/labels),
+  this is a mapping between (cleaned) fine-grained class names and numeric
+  indices.
 
 ## Class levels
 
