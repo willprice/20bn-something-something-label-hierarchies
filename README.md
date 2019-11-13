@@ -52,6 +52,23 @@ These are stored in the `label` field in the JSON files provided by 20BN. The
 original template is stored in the `template` field and the values that have been
 substituted in are stored in the `placeholders` field.
 
+## Subsets
+
+### 10 Class subset
+
+The original paper describes a 10 coarse-class subset of the dataset where they
+defined new coarse-classes (different from those described before). The 10 class
+names are defined in `10_class_subset.csv` and the mapping between fine-classes
+and these is defined in `fine_to_10_classes.csv`.
+
+### 40 Class subset
+
+A 40 class subset is described in the paper and is produced by combining the 10
+class subset plus another 30 fine-grained classes. The class names are defined
+in `40_class_subset.csv` in addition to the corresponding fine-grained class
+index to lookup in `fine_grained_classes.csv` and the coarse-grained class index
+to lookup in `10_class_subset.csv`.
+
 ## Dataset Paper Table Reference
 
 - Table 5: `10_class_subset.csv`
