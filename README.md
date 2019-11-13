@@ -1,4 +1,4 @@
-# 20BN Something-Something category counts
+# 20BN Something-Something label hierarchies
 
 This repository contains CSVs that list classes of varying levels of granularity
 and the mappings between these levels for the [Something-something](https://20bn.com/datasets/something-something) dataset.
