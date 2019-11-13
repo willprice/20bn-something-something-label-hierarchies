@@ -24,11 +24,11 @@ These are stored in the `template` field in the JSON files provided by 20BN.
 ## Coarse-grained labels (high-level)
 
 There are 50 high level classes derived from all the fine-grained labels. 
-`fine_to_coarse.csv` contains the correspondence between the 174 fine-grained
+[`fine_to_coarse.csv`](fine_to_coarse.csv) contains the correspondence between the 174 fine-grained
 classes to the 50 coarse-grained classes.
 
 These have to be mapped from the `template` field in the JSON files provided by
-20BN in combination with `fine_to_coarse.csv`.
+20BN in combination with [`fine_to_coarse.csv`](fine_to_coarse.csv).
 
 ## Captions (low-level)
 
@@ -58,29 +58,29 @@ substituted in are stored in the `placeholders` field.
 
 The original paper describes a 10 coarse-class subset of the dataset where they
 defined new coarse-classes (different from those described before). The 10 class
-names are defined in `10_class_subset.csv` and the mapping between fine-classes
-and these is defined in `fine_to_10_classes.csv`.
+names are defined in [`10_class_subset.csv`](10_class_subset.csv) and the mapping between fine-classes
+and these is defined in [`fine_to_10_classes.csv`](fine_to_10_classes.csv).
 
 ### 40 Class subset
 
 A 40 class subset is described in the paper and is produced by combining the 10
 class subset plus another 30 fine-grained classes. The class names are defined
-in `40_class_subset.csv` in addition to the corresponding fine-grained class
-index to lookup in `fine_grained_classes.csv` and the coarse-grained class index
-to lookup in `10_class_subset.csv`.
+in [`40_class_subset.csv`](40_class_subset.csv) in addition to the corresponding fine-grained class
+index to lookup in [`fine_grained_classes.csv`](fine_grained_classes.csv) and the coarse-grained class index
+to lookup in [`10_class_subset.csv`](10_class_subset.csv).
 
 ## Dataset Paper Table Reference
 
-- Table 5: `10_class_subset.csv`
-- Table 6: `40_class_subset.csv`
-- Table 7: `fine_to_10_classes.csv`
-- Table 8: `fine_to_coarse.csv`
+- Table 5: [`10_class_subset.csv`](10_class_subset.csv)
+- Table 6: [`40_class_subset.csv`](40_class_subset.csv)
+- Table 7: [`fine_to_10_classes.csv`](fine_to_10_classes.csv)
+- Table 8: [`fine_to_coarse.csv`](fine_to_coarse.csv)
 
 ## Warnings
 
-The coarse-grained classes in `10_class_subset.csv`, `40_class_subset.csv`, and
-`fine_to_10_classes.csv` are *DIFFERENT* to the coarse-grained classes in
-`fine_to_coarse.csv` and `coarse_grained_classes.csv`. The paper defined two
+The coarse-grained classes in [`10_class_subset.csv`](10_class_subset.csv), [`40_class_subset.csv`](40_class_subset.csv), and
+[`fine_to_10_classes.csv`](fine_to_10_classes.csv) are *DIFFERENT* to the coarse-grained classes in
+[`fine_to_coarse.csv`](fine_to_coarse.csv) and [`coarse_grained_classes.csv`](coarse_grained_classes.csv). The paper defined two
 sets of coarse-grained classes for the 10/40 class subsets and the full dataset.
 
 ---
