@@ -80,7 +80,7 @@ in [`40_class_subset.csv`](40_class_subset.csv) in addition to the corresponding
 index to lookup in [`fine_grained_classes.csv`](fine_grained_classes.csv) and the coarse-grained class index
 to lookup in [`10_class_subset.csv`](10_class_subset.csv).
 
-## Dataset Paper Table Reference
+## [Dataset Paper](https://arxiv.org/pdf/1706.04261.pdf) Table Reference
 
 - Table 5: [`10_class_subset.csv`](10_class_subset.csv)
 - Table 6: [`40_class_subset.csv`](40_class_subset.csv)
